@@ -18,7 +18,7 @@ include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/
 hello vinay its me
 [[scratch]]
 == Set up the project
-
+ hello
 First you'll need to setup a Java project for Maven to build. To keep the focus on Maven, make the project as simple as possible for now. Create this structure in a project folder of your choosing.
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/main/create_directory_structure_hello.adoc[]
